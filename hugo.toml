@@ -1,0 +1,4 @@
+baseURL = 'https://blog-396cf.web.app/'
+languageCode = 'en-us'
+title = 'Brayden Yates'
+theme = 'hugo-dead-simple'
